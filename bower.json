@@ -1,0 +1,21 @@
+{
+  "name": "turkeytrot",
+  "homepage": "https://github.com/crvfc/crvfc.github.io",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Matthew Glace"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
